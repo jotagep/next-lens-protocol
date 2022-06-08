@@ -1,0 +1,1 @@
+export const API_GRAPHQL_URL = 'https://api.lens.dev';
